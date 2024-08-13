@@ -101,7 +101,7 @@ function displayObjects(objectsArray) {
                 '</div>'
             );
         } else {
-            console.error("не має всіх необхідних властивостей.");
+            console.error("немає всіх необхідних властивостей.");
         }
     });
     document.write('</div>');
